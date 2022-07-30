@@ -1,0 +1,4 @@
+background: hsla(317, 45%, 53%, 0.664);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.397),  hsla(317, 45%, 52%, 0.664)), url(../img/portada1.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.397),  hsla(317, 45%, 52%, 0.664)),  url(../img/portada1.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
